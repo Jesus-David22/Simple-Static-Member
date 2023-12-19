@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+/home/jesus/VS-Code/Membros_Estáticos/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index
+900586112.index
+1434474788.index
